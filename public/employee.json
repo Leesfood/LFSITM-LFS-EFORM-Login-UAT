@@ -1,0 +1,20 @@
+// {
+//     "data": "Employee"
+//     [
+//         {
+//         "employeeid": "7046",
+//         "employeename": "KHIM SOKHY",
+//         "email": "sokhy.khim@leesfood.com",
+//         "emailapproverl1": "",
+//         "emailapproverl2": "",
+//         "emailapproverl3": "",
+//         "approveremail": "dara@leesfood.com",
+//         "aknowledgeby": "chantrea.suos@leesfood.com;chanusa.kouy@leesfood.com",
+//         "site": "598-Office",
+//         "department": "IT",
+//         "section": "IT Manager",
+//         "status": "Active",
+//         "allowdate": "1"
+//         }
+//     ]
+// }

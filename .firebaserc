@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "lfs-eform-uat",
+    "yes": "lfs-eform-prod"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
