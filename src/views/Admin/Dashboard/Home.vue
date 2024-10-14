@@ -1,7 +1,6 @@
 <template>
     <div class="bg-[#7a181a] min-h-screen h-full 2xl:min-h-screen xl:min-h-screen sm:min-h-screen">
-   
-   
+
        <section id="features" class="relative block px-6    py-10 md:py-10 md:px-10   ">
    
          <div class="relative mx-auto max-w-5xl text-center">
